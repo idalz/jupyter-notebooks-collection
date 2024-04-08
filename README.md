@@ -1,5 +1,5 @@
 # Notebooks Collection
-A compilation of Jupyter notebooks showcasing various data analysis and prediction tasks.
+A collection of Jupyter notebooks showcasing various data analysis and prediction tasks.
 
 ### 01. Telco Customer Churn Analysis and Prediction
 **Notebook Overview** 
