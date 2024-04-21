@@ -1,5 +1,5 @@
 # Jupyter Notebooks Collection
-A collection of Jupyter notebooks showcasing various data analysis and prediction tasks.
+A collection of Jupyter notebooks showcasing various data and model related tasks.
 
 ### 01. [Telco Customer Churn Analysis and Prediction](https://github.com/idalz/jupyter-notebooks-collection/blob/main/01_Telco-Customer-Churn.ipynb)
 **Notebook Overview** 
