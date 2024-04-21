@@ -19,7 +19,7 @@ Here, we explore house price prediction using regression techniques. After data 
 
 ---
 
-### 03. [Credit Card Fraud Prediction](https://github.com/idalz/jupyter-notebooks-collection/blob/main/03_CreditCard-Fraud-Prediction.ipynb)
+### 03. [Credit Card Fraud Prediction using Tensorflow ANN](https://github.com/idalz/jupyter-notebooks-collection/blob/main/03_CreditCard-Fraud-Prediction.ipynb)
 **Notebook Overview** 
 
 This notebook focuses on detecting credit card fraud using an Artificial Neural Network (**ANN**) implemented with **TensorFlow Keras**.
@@ -28,7 +28,7 @@ This notebook focuses on detecting credit card fraud using an Artificial Neural 
 
 ---
 
-### 04. [Hiragana Classification](https://github.com/idalz/jupyter-notebooks-collection/blob/main/04_Hiragana-Classification.ipynb)
+### 04. [Hiragana Classification using Tensorflow CNN](https://github.com/idalz/jupyter-notebooks-collection/blob/main/04_Hiragana-Classification.ipynb)
 **Notebook Overview** 
 
 Utilizing Convolutional Neural Networks (**CNN**) from **TensorFlow Keras**, this notebook aims to accurately classify Hiragana characters from images.
@@ -55,7 +55,7 @@ This notebook examines mobile specifications to classify price ranges. The chose
 
 ---
 
-### 07. [Car Price Prediction](https://github.com/idalz/jupyter-notebooks-collection/blob/main/07_Car-Price-Prediction.ipynb)
+### 07. [Car Price Prediction using PyTorch ANN](https://github.com/idalz/jupyter-notebooks-collection/blob/main/07_Car-Price-Prediction.ipynb)
 **Notebook Overview** 
 
 Here, we predict car prices based on their features using an **ANN** implemented with **PyTorch**.
